@@ -5,8 +5,7 @@ Data science methodology:
  2. Data preparation
  3. Exploratory data analysis
  4. Setup
- i) Partitioning data
- ii) Validating data partition
- iii) Balancing data
- 6
- iv) Establish model baseline performance
+  i) Partitioning data
+  ii) Validating data partition
+  iii) Balancing data
+  iv) Establish model baseline performance
